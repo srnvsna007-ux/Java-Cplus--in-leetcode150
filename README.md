@@ -5,7 +5,7 @@
     <th>Level</th>
   </tr>
   <tr>
-    <td><a href="https://leetcode.com/problems/two-sum/">Two Sum</a></td>
+    <td><a href="https:https://github.com/srnvsna007-ux/java-in-leetcode/commit/0c9b377722c06538ac719d308ac7ee40d516c18b">Two Sum</a></td>
     <td>Easy</td>
   </tr>
 </table>
