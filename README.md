@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/srnvsna007-ux/Java-Cplus--in-leetcode150/blob/main/mergetwosum.cpp">Merge two sum .cpp
+      <a href="">Merge two sum.java
     </td>
         <td> Easy</td>
   </tr>
