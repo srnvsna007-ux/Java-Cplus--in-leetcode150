@@ -1,4 +1,4 @@
-<h1> Weclome to here to solving leetcode on java</h1>
+<h1> Weclome to here to solving leetcode 150 on java</h1>
 <table>
   <tr>
     <th>leetcode number</th>
@@ -13,8 +13,15 @@
   <tr>
     <td>88</td>
     <td>
-      <a href="https://github.com/srnvsna007-ux/Java-Cplus--in-leetcode150/blob/main/twosum.java">Merge two sum.java
+      <a href="https://github.com/srnvsna007-ux/Java-Cplus--in-leetcode150/blob/main/twosum.java">Merge two sum
     </td>
         <td> Easy</td>
   </tr>
+  <tr>
+    <td>27</td>
+    <td>
+      <a href="https://github.com/srnvsna007-ux/Java-Cplus--in-leetcode150/blob/main/27.RemoveElement.java">RemoveElement</a>
+    </td>
+    <td>Easy</td>
+  </tr>      
 </table>
