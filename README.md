@@ -23,5 +23,14 @@
       <a href="https://github.com/srnvsna007-ux/Java-Cplus--in-leetcode150/blob/main/27.RemoveElement.java">RemoveElement</a>
     </td>
     <td>Easy</td>
+  </tr>
+  <tr>
+    <td>
+      26
+    </td>
+    <td>
+      <a href ="">Remove duplicates from sorted array</a>
+    </td>
+    <td>Easy</td>
   </tr>      
 </table>
