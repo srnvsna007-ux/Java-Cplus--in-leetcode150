@@ -29,7 +29,7 @@
       26
     </td>
     <td>
-      <a href ="">Remove duplicates from sorted array</a>
+      <a href ="https://github.com/srnvsna007-ux/Java-Cplus--in-leetcode150/blob/main/26.Remove%20duplicates%20from%20sorted%20array.java">Remove duplicates from sorted array</a>
     </td>
     <td>Easy</td>
   </tr>      
