@@ -43,7 +43,7 @@
        <tr>
          <td>186</td>
          <td>
-           <a href ="">rotate array
+           <a href ="https://github.com/srnvsna007-ux/Java-Cplus--in-leetcode150/blob/main/186.rotate%20array%20.java">rotate array
          </td>
              <td>Medium</td>
        </tr>
