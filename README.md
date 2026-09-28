@@ -39,5 +39,12 @@
      <a href ="https://github.com/srnvsna007-ux/Java-Cplus--in-leetcode150/blob/main/80.Remove%20duplicates%20from%20a%20sorted%20array.java">80.Remove duplicates from sorted array
    </td>
        <td>Easy</td>
- </tr>       
+ </tr> 
+       <tr>
+         <td>186</td>
+         <td>
+           <a href ="">rotate array
+         </td>
+             <td>Medium</td>
+       </tr>
 </table>
