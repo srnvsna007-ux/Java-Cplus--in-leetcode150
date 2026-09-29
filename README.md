@@ -50,7 +50,7 @@
           <tr>
          <td>122</td>
          <td>
-           <a href ="">20.javaBest Time to Buy and Sell Stock II
+           <a href ="https://github.com/srnvsna007-ux/Java-Cplus--in-leetcode150/blob/main/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.java">Best Time to Buy and Sell Stock II
          </td>
              <td>Medium</td>
        </tr>   
