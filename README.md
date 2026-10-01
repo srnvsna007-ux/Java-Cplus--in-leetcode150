@@ -57,7 +57,7 @@
         <tr>
          <td>55</td>
          <td>
-           <a href =""> Jump Game
+           <a href ="https://github.com/srnvsna007-ux/Java-Cplus--in-leetcode150/blob/main/Jump%20Game.java"> Jump Game
          </td>
              <td>Medium</td>
        </tr> 
